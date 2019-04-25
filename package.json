@@ -1,0 +1,10 @@
+{
+  "name": "Socket.IO Drawing Tutorial",
+  "version": "1.0.0",
+  "author": "Peter Stakoun",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
